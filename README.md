@@ -10,13 +10,12 @@
     <p style="margin: 0.5em 0;">
       📧 <a href="mailto:rchen@cuhk.edu.cn">rchen@cuhk.edu.cn</a><br>
       📍 Dao Yuan Building, Room 321b<br>
-      📍 Dao Yuan Building, Room 321b<br>
     </p>
     <p style="margin: 1em 0 0;">
       <strong>Research Interests:</strong><br>
       <code>Discrete Optimization</code> 
       <code>Optimization Under Uncertainty</code> 
-      <code>Applications of Optimization in All Areas</code>
+      <code>Applications of Optimization in all Areas</code>
     </p>
   </div>
 
@@ -29,32 +28,68 @@
 
 </div>
 
+<details>
+<summary>🔍 <strong>Bio</strong></summary>
+
+### Education
+ - **Ph.D.**, Industrial Engineering, University of Wisconsin-Madison, 2021
+ - **M.S.**, Computer Sciences, University of Wisconsin-Madison, 2020
+ - **B.S.**, Statistics, Nanjing University, 2017
+
+### Professional Experience
+ - **Assistant Professor**, School of Data Science, The Chinese University of Hong Kong, Shenzhen, 2024-present
+ - **Postdoc**, Cornell Tech, Cornell University, 2021-2024
+ - **Research Intern**, IBM Research, 2019 & 2020
+
+</details>
 
 ---
 
-## 📚 Recent Publications _(Selected)_
-**2024**  
-1. **Doe J.**, Smith A., "Dynamic Neural Architecture Search for Edge Devices", _Nature ML_, 2024  
-   $[PDF](https://example.com/paper1)$ $[Code](https://github.com/...)$  
-   
-2. Lee C., **Doe J.**, "Ethical Frameworks for Generative AI", _NeurIPS_, 2024 (CCF-A)  
-   $[Project Page](https://example.com/project2)$
+## 📚 Research
+### Journal Papers
+- R. Chen, O. Günlük, A. Lodi, "[Recovering Dantzig-Wolfe bounds by cutting planes](https://pubsonline.informs.org/doi/full/10.1287/opre.2023.0048)", Operations Research 73(2) 1128-1142, 2025 [\[arXiv\]](https://arxiv.org/abs/2301.13149) [\[code\]](https://github.com/rchen234/DWB_cuts) [\[supplement\]](https://drive.google.com/file/d/1TkURMMHE7E4O_yCagzLy5POePP7oCHeW/view?usp=sharing)
 
-**2023**  
-3. **Doe J.** et al., "Vision Transformers for Medical Imaging", _IEEE TPAMI_, 2023 (IF: 24.3)  
-   $[Dataset](https://example.com/dataset)$  
-   
-4. Wang L., **Doe J.**, "Decentralized Federated Learning", _ICML_, 2023 (Oral, Top 5%)  
-   $[Video](https://youtube.com/...)$
+- R. Chen, J. Luedtke, "[Sparse multi-term disjunctive cuts for the epigraph of a function of binary variables](https://link.springer.com/article/10.1007/s10107-023-02019-2)", Mathematical Programming 206 357-388, 2024 [\[view-only\]](https://rdcu.be/dmISU) [\[arXiv\]](https://arxiv.org/abs/2111.07855) [\[code\]](https://github.com/rchen234/I-sparse)
 
-<details>
-<summary>🔍 Earlier Publications (2018-2022)</summary>
+- R. Chen, S. Dash, O. Günlük, "[Convexifying multilinear sets with cardinality constraints: structural properties, nested case and extensions](https://doi.org/10.1016/j.disopt.2023.100804)", Discrete Optimization 50 100804, 2023 [\[arXiv\]](https://arxiv.org/abs/2007.15725)
 
-- **2022**: "Deep Learning on Graphs" (KDD)  
-- **2021**: "AI for Social Good" (AAAI, Best Paper Nominee)  
-- **2020**: "Robust Object Detection" (CVPR Workshop)  
-- **2018**: PhD Dissertation "Learning Representations" (Summa Cum Laude)  
-</details>
+- R. Chen, S. Dash, O. Günlük, "[Multilinear sets with two monomials and cardinality constraints](https://www.sciencedirect.com/science/article/pii/S0166218X22003572?dgcid=author)" Discrete Applied Mathematics 324 67-79, 2023 [\[arXiv\]](http://arxiv.org/abs/2105.10771)
+
+- R. Chen, J. Luedtke, "[On generating Lagrangian cuts for two-stage stochastic integer programs](https://pubsonline.informs.org/doi/full/10.1287/ijoc.2022.1185)" INFORMS Journal on Computing 34(4) 2332-2349, 2022 [\[arXiv\]](https://arxiv.org/abs/2106.04023) [\[code\]](https://github.com/rchen234/SIP_LAG) [\[supplement\]](https://drive.google.com/file/d/1_77Q_QsuZzScm0w4fyYJjc46GlkRCvhF/view?usp=sharing)
+
+- R. Chen, J. Luedtke, "[On sample average approximation for two-stage stochastic programs without relatively complete recourse](https://link.springer.com/article/10.1007/s10107-021-01753-9)", Mathematical Programming 196 719-754, 2022 [\[view-only\]](https://rdcu.be/cE1Nd) [\[arXiv\]](https://arxiv.org/abs/1912.13078)
+
+### Referred Conference Proceedings
+- B. van Rossum, R. Chen, A. Lodi, "[A new branching rule for range minimization problems](https://link.springer.com/chapter/10.1007/978-3-031-59835-7_32)", International Conference on Integer Programming and Combinatorial Optimization, LNCS 14679 433-445, 2024 
+
+- B. van Rossum, R. Chen, A. Lodi, "[Optimizing fairness over time with homogeneous workers](https://drops.dagstuhl.de/opus/volltexte/2023/18778/)", Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (short paper), OASIcs 115 17:1-17:6, 2023
+
+- R. Chen, J. Luedtke, "[Sparse multi-term disjunctive cuts for the epigraph of a function of binary variables](https://link.springer.com/chapter/10.1007/978-3-031-06901-7_8)", International Conference on Integer Programming and Combinatorial Optimization, LNCS 13265 98-111, 2022
+
+- R. Chen, S. Dash, T. Gao, "[Integer programming for causal structure learning in the presence of latent variables](https://proceedings.mlr.press/v139/chen21c.html)", International Conference on Machine Learning (oral, 3%), PMLR 139 1550-1560, 2021 [code]
+
+- R. Chen, S. Dash, O. Günlük, "[Cardinality constrained multilinear sets](https://link.springer.com/chapter/10.1007/978-3-030-53262-8_5)", International Symposium on Combinatorial Optimization, LNCS 12176 54-65, 2020
+
+### Preprints
+- Y. Yang, R. Chen, "Inexact column generation for Bayesian network structure learning via difference-of-submodular optimization" [\[arXiv\]](https://arxiv.org/abs/2505.11089)
+
+- R. Chen, D. Liu, N. Jiang, R. Gupta, M. Kilinc, A. Lodi, "Learning maritime inventory routing optimization" [\[arXiv\]](https://arxiv.org/abs/2502.15244)
+
+- B. van Rossum, R. Chen, A. Lodi, "Efficient branching rules for optimizing range and order-based objective functions" [\[arXiv\]](https://arxiv.org/abs/2311.03885)
+
+- R. Messana, R. Chen, A. Lodi, "Actively learning combinatorial optimization using a membership oracle" [\[arXiv\]](https://arxiv.org/abs/2405.14090)
+
+- R. Chen, O. Günlük, A. Lodi, G. Wang, "Online decision making with nonconvex local and convex global constraints" [\[arXiv\]](https://arxiv.org/abs/2211.03997)
+
+- R. Chen, H. Zhu, "The complexity of recognizing facets for the knapsack polytope" [\[arXiv\]](https://arxiv.org/abs/2211.03311)
+
+### Other Publications
+R. Chen, "[Valid inequalities and integer programming formulations for stochastic integer programming and some machine learning problems](https://www.proquest.com/docview/2598662096)", Ph.D. Dissertation
+
+### Research Group
+#### Current PhD Students
+- Guxin Du (杜汩鑫, DS@CUHK-SZ)
+- Yiran Yang (杨忆然, DS@CUHK-SZ)
 
 ---
 
