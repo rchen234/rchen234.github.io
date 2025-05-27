@@ -29,7 +29,7 @@
 </div>
 
 <details style="margin-top: 2em; border: 1px solid #eee; border-radius: 8px; padding: 0.5em;">
-<summary style="padding: 0.8em; cursor: pointer; font-weight: 600; color: #2d72d9;">🔍 Bio</summary>
+<summary style="padding: 0.8em; cursor: pointer; font-weight: 600; color: #2d72d9;"> Bio</summary>
 
 <div style="padding: 1em 1.5em;">
   <h3 style="color: #444; border-bottom: 2px solid #2d72d9; padding-bottom: 0.3em;">Education</h3>
@@ -69,7 +69,7 @@
 
 ---
 
-## 📚 Research
+## 🔍 Research
 ### Journal Papers
 - R. Chen, O. Günlük, A. Lodi, "[Recovering Dantzig-Wolfe bounds by cutting planes](https://pubsonline.informs.org/doi/full/10.1287/opre.2023.0048)", Operations Research 73(2) 1128-1142, 2025 [\[arXiv\]](https://arxiv.org/abs/2301.13149) [\[code\]](https://github.com/rchen234/DWB_cuts) [\[supplement\]](https://drive.google.com/file/d/1TkURMMHE7E4O_yCagzLy5POePP7oCHeW/view?usp=sharing)
 
@@ -130,11 +130,9 @@
 
 **Session Chair** for
 
-INFORMS 2023/2019, INFORMS International 2025, ISMP 2024, SIAM-OP 2023
+INFORMS 2019&2023, INFORMS International 2025, ISMP 2024, SIAM-OP 2023
 
 ---
-
-<div style="text-align: center; margin-top: 40px">
-  <a href="https://scholar.google.com/citations?user=PoAJ59MAAAAJ&hl=en">Google Scholar</a> • 
-  <a href="https://github.com/rchen234">GitHub</a>
-</div>
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=PoAJ59MAAAAJ&hl=en)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/rchen234)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/rui-chen-55761b163)
