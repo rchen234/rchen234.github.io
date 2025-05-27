@@ -8,7 +8,7 @@
       <strong>The Chinese University of Hong Kong, Shenzhen</strong>
     </p>
     <p style="margin: 0.5em 0;">
-      📧 <a href="mailto:rchen@cuhk.edu.cn">rchen@cuhk.edu.cn</a><br>
+      📧 rchen [at] cuhk [dot] edu [dot] cn<br>
       📍 Dao Yuan Building, Room 321b<br>
     </p>
     <p style="margin: 1em 0 0;">
