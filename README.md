@@ -118,36 +118,23 @@ R. Chen, "[Valid inequalities and integer programming formulations for stochasti
 ---
 
 ## 🎓 Teaching
-### Current Courses
-**CS 501** Advanced Machine Learning (Fall 2024)  
-> Focus: Deep learning architectures, optimization methods, and ethical considerations
-
-**CS 310** Computer Vision Fundamentals (Spring 2025)  
-> Labs include PyTorch implementation of modern vision models
-
-### Past Courses
-- CS 101: Introduction to AI (2020-2023)
-- CS 699: Graduate Seminar Series
+- **DDA6112 Stochastic Optimization** at CUHK-Shenzhen, Fall 2025
+- **MAT3007 Optimization** at CUHK-Shenzhen, Fall 2024
 
 ---
 
 ## 🛠 Professional Service
-### Conference Roles
-- **Area Chair**: NeurIPS 2024, ICML 2023
-- **Program Committee**: AAAI 2022-2024, CVPR 2023
+**Referee** for
+- Journals: Discrete Applied Mathematics, INFORMS Journal on Computing, Journal of Optimization Theory and Applications, Mathematical Programming, Mathematical Programming Computation, Operations Research, Operations Research Letters, SIAM Journal on Optimization
+- Conferences: AAAI, ICLR, ICML, IPCO, NeurIPS
 
-### Editorial Work
-- Associate Editor: _Journal of Ethical AI_ (2022-present)
-- Guest Editor: Special Issue on "Trustworthy ML", _IEEE Transactions_ (2023)
+**Organizer/Session Chair** for
 
-### University Service
-- PhD Admissions Committee Chair (2023-2025)
-- Faculty Senate AI Ethics Subcommittee
+INFORMS International 2025, ISMP 2024, SIAM-OP 2023, INFORMS 2023/2019
 
 ---
 
 <div style="text-align: center; margin-top: 40px">
-  <a href="https://scholar.google.com/citations?user=ID">Google Scholar</a> • 
-  <a href="https://github.com/jdoe">GitHub</a> • 
-  <a href="https://twitter.com/jdoe">Twitter</a>
+  <a href="https://scholar.google.com/citations?user=PoAJ59MAAAAJ&hl=en">Google Scholar</a> • 
+  <a href="https://github.com/rchen234">GitHub</a>
 </div>
