@@ -128,9 +128,9 @@ R. Chen, "[Valid inequalities and integer programming formulations for stochasti
 - Journals: Discrete Applied Mathematics, INFORMS Journal on Computing, Journal of Optimization Theory and Applications, Mathematical Programming, Mathematical Programming Computation, Operations Research, Operations Research Letters, SIAM Journal on Optimization
 - Conferences: AAAI, ICLR, ICML, IPCO, NeurIPS
 
-**Organizer/Session Chair** for
+**Session Chair** for
 
-INFORMS International 2025, ISMP 2024, SIAM-OP 2023, INFORMS 2023/2019
+INFORMS 2023/2019, INFORMS International 2025, ISMP 2024, SIAM-OP 2023
 
 ---
 
