@@ -10,12 +10,13 @@
     <p style="margin: 0.5em 0;">
       📧 <a href="mailto:rchen@cuhk.edu.cn">rchen@cuhk.edu.cn</a><br>
       📍 Dao Yuan Building, Room 321b<br>
+      📍 Dao Yuan Building, Room 321b<br>
     </p>
     <p style="margin: 1em 0 0;">
-      <strong>Research Keywords:</strong><br>
-      <code>Machine Learning</code> 
-      <code>Computer Vision</code> 
-      <code>AI Ethics</code>
+      <strong>Research Interests:</strong><br>
+      <code>Discrete Optimization</code> 
+      <code>Optimization Under Uncertainty</code> 
+      <code>Applications of Optimization in All Areas</code>
     </p>
   </div>
 
@@ -28,9 +29,6 @@
 
 </div>
 
-
-**Email**: j.doe@uni.edu • **Office**: SE 123 • **Phone**: +1 (555) 123-4567  
-**Research Interests**: Machine Learning, Computer Vision, AI Ethics
 
 ---
 
