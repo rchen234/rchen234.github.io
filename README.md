@@ -108,7 +108,7 @@
 - R. Chen, H. Zhu, "The complexity of recognizing facets for the knapsack polytope" [\[arXiv\]](https://arxiv.org/abs/2211.03311)
 
 ### Other Publications
-R. Chen, "[Valid inequalities and integer programming formulations for stochastic integer programming and some machine learning problems](https://www.proquest.com/docview/2598662096)", Ph.D. Dissertation
+- R. Chen, "[Valid inequalities and integer programming formulations for stochastic integer programming and some machine learning problems](https://www.proquest.com/docview/2598662096)", Ph.D. Dissertation
 
 ### Research Group
 #### Current PhD Students
