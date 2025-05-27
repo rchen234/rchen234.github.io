@@ -2,16 +2,14 @@
 
   <!-- 左侧文字信息 -->
   <div style="flex: 1; min-width: 60%;">
-    <h1 style="color: #2d72d9; margin: 0 0 0.5em;">Prof. Jane Doe</h1>
-    <h3 style="margin: 0 0 1em;">Associate Professor</h3>
+    <h3 style="margin: 0 0 1em;">Assistant Professor</h3>
     <p style="margin: 0.5em 0;">
-      <strong>Department of Computer Science</strong><br>
-      <strong>University of Excellence</strong>
+      <strong>School of Data Science</strong><br>
+      <strong>The Chinese University of Hong Kong, Shenzhen</strong>
     </p>
     <p style="margin: 0.5em 0;">
-      📧 <a href="mailto:j.doe@uni.edu">j.doe@uni.edu</a><br>
-      📍 SE 123<br>
-      🔗 <a href="https://jane-doe-lab.org">Personal Website</a>
+      📧 <a href="mailto:rchen@cuhk.edu.cn">rchen@cuhk.edu.cn</a><br>
+      📍 Dao Yuan Building, Room 321b<br>
     </p>
     <p style="margin: 1em 0 0;">
       <strong>Research Keywords:</strong><br>
