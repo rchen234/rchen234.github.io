@@ -90,7 +90,7 @@
 
 - R. Chen, J. Luedtke, "[Sparse multi-term disjunctive cuts for the epigraph of a function of binary variables](https://link.springer.com/chapter/10.1007/978-3-031-06901-7_8)", International Conference on Integer Programming and Combinatorial Optimization, LNCS 13265 98-111, 2022
 
-- R. Chen, S. Dash, T. Gao, "[Integer programming for causal structure learning in the presence of latent variables](https://proceedings.mlr.press/v139/chen21c.html)", International Conference on Machine Learning (oral, 3%), PMLR 139 1550-1560, 2021 [code]
+- R. Chen, S. Dash, T. Gao, "[Integer programming for causal structure learning in the presence of latent variables](https://proceedings.mlr.press/v139/chen21c.html)", International Conference on Machine Learning (oral, 3%), PMLR 139 1550-1560, 2021 [\[code\]](https://github.com/rchen234/IP4AncADMG)
 
 - R. Chen, S. Dash, O. Günlük, "[Cardinality constrained multilinear sets](https://link.springer.com/chapter/10.1007/978-3-030-53262-8_5)", International Symposium on Combinatorial Optimization, LNCS 12176 54-65, 2020
 
