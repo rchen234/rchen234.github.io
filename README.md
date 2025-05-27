@@ -15,7 +15,7 @@
       <strong>Research Interests:</strong><br>
       <code>Discrete Optimization</code> 
       <code>Optimization Under Uncertainty</code> 
-      <code>Applications of Optimization in all Areas</code>
+      <code>Applications of Optimization</code>
     </p>
   </div>
 
