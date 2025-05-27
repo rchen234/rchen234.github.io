@@ -28,18 +28,42 @@
 
 </div>
 
-<details>
-<summary>🔍 <strong>Bio</strong></summary>
+<details style="margin-top: 2em; border: 1px solid #eee; border-radius: 8px; padding: 0.5em;">
+<summary style="padding: 0.8em; cursor: pointer; font-weight: 600; color: #2d72d9;">🔍 Bio</summary>
 
-### Education
- - **Ph.D.**, Industrial Engineering, University of Wisconsin-Madison, 2021
- - **M.S.**, Computer Sciences, University of Wisconsin-Madison, 2020
- - **B.S.**, Statistics, Nanjing University, 2017
+<div style="padding: 1em 1.5em;">
+  <h3 style="color: #444; border-bottom: 2px solid #2d72d9; padding-bottom: 0.3em;">Education</h3>
+  <ul style="list-style-type: none; padding-left: 1.5em;">
+    <li style="margin: 0.8em 0;">
+      <strong>Ph.D.</strong>, Industrial Engineering<br>
+      <span style="color: #666;">University of Wisconsin-Madison, 2021</span>
+    </li>
+    <li style="margin: 0.8em 0;">
+      <strong>M.S.</strong>, Computer Sciences<br>
+      <span style="color: #666;">University of Wisconsin-Madison, 2020</span>
+    </li>
+    <li style="margin: 0.8em 0;">
+      <strong>B.S.</strong>, Statistics<br>
+      <span style="color: #666;">Nanjing University, 2017</span>
+    </li>
+  </ul>
 
-### Professional Experience
- - **Assistant Professor**, School of Data Science, The Chinese University of Hong Kong, Shenzhen, 2024-present
- - **Postdoc**, Cornell Tech, Cornell University, 2021-2024
- - **Research Intern**, IBM Research, 2019 & 2020
+  <h3 style="color: #444; border-bottom: 2px solid #2d72d9; padding-bottom: 0.3em; margin-top: 1.5em;">Professional Experience</h3>
+  <ul style="list-style-type: none; padding-left: 1.5em;">
+    <li style="margin: 0.8em 0;">
+      <strong>Assistant Professor</strong><br>
+      <span style="color: #666;">School of Data Science, CUHK-Shenzhen, 2024–present</span>
+    </li>
+    <li style="margin: 0.8em 0;">
+      <strong>Postdoc</strong><br>
+      <span style="color: #666;">Cornell Tech, Cornell University, 2021–2024</span>
+    </li>
+    <li style="margin: 0.8em 0;">
+      <strong>Research Intern</strong><br>
+      <span style="color: #666;">IBM Research, 2019 & 2020</span>
+    </li>
+  </ul>
+</div>
 
 </details>
 
