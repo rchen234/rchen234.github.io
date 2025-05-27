@@ -1,10 +1,23 @@
----
-title: Prof. Jane Doe, Ph.D.
-subtitle: Department of Computer Science • University of Excellence
----
+<div style="display: flex; flex-wrap: wrap; gap: 2em; align-items: center; margin: 2em 0;">
+  
+  <!-- 左侧文字 -->
+  <div style="flex: 1; min-width: 60%;">
+    # <span style="color: #2d72d9;">Prof. Jane Doe</span>  
+    ### Associate Professor  
+    **Department of Computer Science**  
+    **University of Excellence**  
+    📧 j.doe@uni.edu | 📍 SE 123  
+    🔗 [Personal Website](https://jane-doe-lab.org)  
+    🧠 Research Keywords: `ML` `CV` `AI Ethics`
+  </div>
 
-<div align="center">
-  <img src="https://example.com/photo.jpg" width="200" style="border-radius: 50%; margin: 20px">
+  <!-- 右侧照片 -->
+  <div style="flex: 0 0 200px; text-align: center;">
+    <img src="https://example.com/photo.jpg" 
+         alt="Profile Photo" 
+         style="width:180px; border-radius: 50%; border: 3px solid #eee; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  </div>
+
 </div>
 
 **Email**: j.doe@uni.edu • **Office**: SE 123 • **Phone**: +1 (555) 123-4567  
@@ -73,4 +86,3 @@ subtitle: Department of Computer Science • University of Excellence
   <a href="https://twitter.com/jdoe">Twitter</a>
 </div>
 
-📌 *Last updated: July 2024*
