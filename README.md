@@ -28,6 +28,11 @@
 
 </div>
 
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=PoAJ59MAAAAJ&hl=en)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/rchen234)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/rui-chen-55761b163)
+
+
 <details style="margin-top: 2em; border: 1px solid #eee; border-radius: 8px; padding: 0.5em;">
 <summary style="padding: 0.8em; cursor: pointer; font-weight: 600; color: #2d72d9;"> Bio</summary>
 
@@ -71,28 +76,28 @@
 
 ## 🔍 Research
 ### Journal Papers
-- R. Chen, O. Günlük, A. Lodi, "[Recovering Dantzig-Wolfe bounds by cutting planes](https://pubsonline.informs.org/doi/full/10.1287/opre.2023.0048)", Operations Research 73(2) 1128-1142, 2025 [\[arXiv\]](https://arxiv.org/abs/2301.13149) [\[code\]](https://github.com/rchen234/DWB_cuts) [\[supplement\]](https://drive.google.com/file/d/1TkURMMHE7E4O_yCagzLy5POePP7oCHeW/view?usp=sharing)
+- R. Chen, O. Günlük, A. Lodi, "[Recovering Dantzig-Wolfe bounds by cutting planes](https://pubsonline.informs.org/doi/full/10.1287/opre.2023.0048)", *Operations Research* 73(2) 1128-1142, 2025 [\[arXiv\]](https://arxiv.org/abs/2301.13149) [\[code\]](https://github.com/rchen234/DWB_cuts) [\[supplement\]](https://drive.google.com/file/d/1TkURMMHE7E4O_yCagzLy5POePP7oCHeW/view?usp=sharing)
 
-- R. Chen, J. Luedtke, "[Sparse multi-term disjunctive cuts for the epigraph of a function of binary variables](https://link.springer.com/article/10.1007/s10107-023-02019-2)", Mathematical Programming 206 357-388, 2024 [\[view-only\]](https://rdcu.be/dmISU) [\[arXiv\]](https://arxiv.org/abs/2111.07855) [\[code\]](https://github.com/rchen234/I-sparse)
+- R. Chen, J. Luedtke, "[Sparse multi-term disjunctive cuts for the epigraph of a function of binary variables](https://link.springer.com/article/10.1007/s10107-023-02019-2)", *Mathematical Programming* 206 357-388, 2024 [\[view-only\]](https://rdcu.be/dmISU) [\[arXiv\]](https://arxiv.org/abs/2111.07855) [\[code\]](https://github.com/rchen234/I-sparse)
 
-- R. Chen, S. Dash, O. Günlük, "[Convexifying multilinear sets with cardinality constraints: structural properties, nested case and extensions](https://doi.org/10.1016/j.disopt.2023.100804)", Discrete Optimization 50 100804, 2023 [\[arXiv\]](https://arxiv.org/abs/2007.15725)
+- R. Chen, S. Dash, O. Günlük, "[Convexifying multilinear sets with cardinality constraints: structural properties, nested case and extensions](https://doi.org/10.1016/j.disopt.2023.100804)", *Discrete Optimization* 50 100804, 2023 [\[arXiv\]](https://arxiv.org/abs/2007.15725)
 
-- R. Chen, S. Dash, O. Günlük, "[Multilinear sets with two monomials and cardinality constraints](https://www.sciencedirect.com/science/article/pii/S0166218X22003572?dgcid=author)" Discrete Applied Mathematics 324 67-79, 2023 [\[arXiv\]](http://arxiv.org/abs/2105.10771)
+- R. Chen, S. Dash, O. Günlük, "[Multilinear sets with two monomials and cardinality constraints](https://www.sciencedirect.com/science/article/pii/S0166218X22003572?dgcid=author)", *Discrete Applied Mathematics* 324 67-79, 2023 [\[arXiv\]](http://arxiv.org/abs/2105.10771)
 
-- R. Chen, J. Luedtke, "[On generating Lagrangian cuts for two-stage stochastic integer programs](https://pubsonline.informs.org/doi/full/10.1287/ijoc.2022.1185)" INFORMS Journal on Computing 34(4) 2332-2349, 2022 [\[arXiv\]](https://arxiv.org/abs/2106.04023) [\[code\]](https://github.com/rchen234/SIP_LAG) [\[supplement\]](https://drive.google.com/file/d/1_77Q_QsuZzScm0w4fyYJjc46GlkRCvhF/view?usp=sharing)
+- R. Chen, J. Luedtke, "[On generating Lagrangian cuts for two-stage stochastic integer programs](https://pubsonline.informs.org/doi/full/10.1287/ijoc.2022.1185)", *INFORMS Journal on Computing* 34(4) 2332-2349, 2022 [\[arXiv\]](https://arxiv.org/abs/2106.04023) [\[code\]](https://github.com/rchen234/SIP_LAG) [\[supplement\]](https://drive.google.com/file/d/1_77Q_QsuZzScm0w4fyYJjc46GlkRCvhF/view?usp=sharing)
 
-- R. Chen, J. Luedtke, "[On sample average approximation for two-stage stochastic programs without relatively complete recourse](https://link.springer.com/article/10.1007/s10107-021-01753-9)", Mathematical Programming 196 719-754, 2022 [\[view-only\]](https://rdcu.be/cE1Nd) [\[arXiv\]](https://arxiv.org/abs/1912.13078)
+- R. Chen, J. Luedtke, "[On sample average approximation for two-stage stochastic programs without relatively complete recourse](https://link.springer.com/article/10.1007/s10107-021-01753-9)", *Mathematical Programming* 196 719-754, 2022 [\[view-only\]](https://rdcu.be/cE1Nd) [\[arXiv\]](https://arxiv.org/abs/1912.13078)
 
 ### Referred Conference Proceedings
-- B. van Rossum, R. Chen, A. Lodi, "[A new branching rule for range minimization problems](https://link.springer.com/chapter/10.1007/978-3-031-59835-7_32)", International Conference on Integer Programming and Combinatorial Optimization, LNCS 14679 433-445, 2024 
+- B. van Rossum, R. Chen, A. Lodi, "[A new branching rule for range minimization problems](https://link.springer.com/chapter/10.1007/978-3-031-59835-7_32)", *International Conference on Integer Programming and Combinatorial Optimization*, LNCS 14679 433-445, 2024 
 
-- B. van Rossum, R. Chen, A. Lodi, "[Optimizing fairness over time with homogeneous workers](https://drops.dagstuhl.de/opus/volltexte/2023/18778/)", Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (short paper), OASIcs 115 17:1-17:6, 2023
+- B. van Rossum, R. Chen, A. Lodi, "[Optimizing fairness over time with homogeneous workers](https://drops.dagstuhl.de/opus/volltexte/2023/18778/)", *Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems* (short paper), OASIcs 115 17:1-17:6, 2023
 
-- R. Chen, J. Luedtke, "[Sparse multi-term disjunctive cuts for the epigraph of a function of binary variables](https://link.springer.com/chapter/10.1007/978-3-031-06901-7_8)", International Conference on Integer Programming and Combinatorial Optimization, LNCS 13265 98-111, 2022
+- R. Chen, J. Luedtke, "[Sparse multi-term disjunctive cuts for the epigraph of a function of binary variables](https://link.springer.com/chapter/10.1007/978-3-031-06901-7_8)", *International Conference on Integer Programming and Combinatorial Optimization*, LNCS 13265 98-111, 2022
 
-- R. Chen, S. Dash, T. Gao, "[Integer programming for causal structure learning in the presence of latent variables](https://proceedings.mlr.press/v139/chen21c.html)", International Conference on Machine Learning (oral, 3%), PMLR 139 1550-1560, 2021 [\[code\]](https://github.com/rchen234/IP4AncADMG)
+- R. Chen, S. Dash, T. Gao, "[Integer programming for causal structure learning in the presence of latent variables](https://proceedings.mlr.press/v139/chen21c.html)", *International Conference on Machine Learning* (oral, 3%), PMLR 139 1550-1560, 2021 [\[code\]](https://github.com/rchen234/IP4AncADMG)
 
-- R. Chen, S. Dash, O. Günlük, "[Cardinality constrained multilinear sets](https://link.springer.com/chapter/10.1007/978-3-030-53262-8_5)", International Symposium on Combinatorial Optimization, LNCS 12176 54-65, 2020
+- R. Chen, S. Dash, O. Günlük, "[Cardinality constrained multilinear sets](https://link.springer.com/chapter/10.1007/978-3-030-53262-8_5)", *International Symposium on Combinatorial Optimization*, LNCS 12176 54-65, 2020
 
 ### Preprints
 - Y. Yang, R. Chen, "Inexact column generation for Bayesian network structure learning via difference-of-submodular optimization" [\[arXiv\]](https://arxiv.org/abs/2505.11089)
@@ -131,8 +136,3 @@
 **Session Chair** for
 
 INFORMS 2019&2023, INFORMS International 2025, ISMP 2024, SIAM-OP 2023
-
----
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=PoAJ59MAAAAJ&hl=en)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/rchen234)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/rui-chen-55761b163)
