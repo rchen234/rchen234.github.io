@@ -130,7 +130,7 @@
 
 ## 🛠 Professional Service
 **Referee** for
-- Journals: Discrete Applied Mathematics, INFORMS Journal on Computing, Journal of Optimization Theory and Applications, Mathematical Programming, Mathematical Programming Computation, Operations Research, Operations Research Letters, SIAM Journal on Optimization
+- Journals: Discrete Applied Mathematics, INFORMS Journal on Computing, INFORMS Journal on Optimization, Journal of Optimization Theory and Applications, Mathematical Programming, Mathematical Programming Computation, Operations Research, Operations Research Letters, SIAM Journal on Optimization
 - Conferences: AAAI, ICLR, ICML, IPCO, NeurIPS
 
 **Session Chair** for
