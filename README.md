@@ -117,8 +117,9 @@
 
 ### Research Group
 #### Current PhD Students
-- Guxin Du (杜汩鑫, DS@CUHK-SZ)
-- Yiran Yang (杨忆然, DS@CUHK-SZ)
+- Qingwei Zhang (张庆伟, DS@CUHK-SZ since 2025)
+- Guxin Du (杜汩鑫, DS@CUHK-SZ since 2024)
+- Yiran Yang (杨忆然, DS@CUHK-SZ since 2023)
 
 ---
 
