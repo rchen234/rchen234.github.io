@@ -102,7 +102,7 @@
 ### Preprints
 - Y. Yang, R. Chen, "Inexact column generation for Bayesian network structure learning via difference-of-submodular optimization" [\[arXiv\]](https://arxiv.org/abs/2505.11089)
 
-- R. Chen, D. Liu, N. Jiang, R. Gupta, M. Kilinc, A. Lodi, "Learning maritime inventory routing optimization" [\[arXiv\]](https://arxiv.org/abs/2502.15244)
+- R. Chen, D. Liu, N. Jiang, R. Gupta, M. Kilinc, A. Lodi, "Learning Large Neighborhood Search for Maritime Inventory Routing Optimization" [\[arXiv\]](https://arxiv.org/abs/2502.15244)
 
 - B. van Rossum, R. Chen, A. Lodi, "Efficient branching rules for optimizing range and order-based objective functions" [\[arXiv\]](https://arxiv.org/abs/2311.03885)
 
