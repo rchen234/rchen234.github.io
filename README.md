@@ -89,6 +89,7 @@
 - R. Chen, J. Luedtke, "[On sample average approximation for two-stage stochastic programs without relatively complete recourse](https://link.springer.com/article/10.1007/s10107-021-01753-9)", *Mathematical Programming* 196 719-754, 2022 [\[view-only\]](https://rdcu.be/cE1Nd) [\[arXiv\]](https://arxiv.org/abs/1912.13078)
 
 ### Referred Conference Proceedings
+- Y. Yang, R. Chen, "Inexact column generation for Bayesian network structure learning via difference-of-submodular optimization", *Conference on Neural Information Processing Systems* (accepted), 2025 [\[arXiv\]](https://arxiv.org/abs/2505.11089)
 - B. van Rossum, R. Chen, A. Lodi, "[A new branching rule for range minimization problems](https://link.springer.com/chapter/10.1007/978-3-031-59835-7_32)", *International Conference on Integer Programming and Combinatorial Optimization*, LNCS 14679 433-445, 2024 
 
 - B. van Rossum, R. Chen, A. Lodi, "[Optimizing fairness over time with homogeneous workers](https://drops.dagstuhl.de/opus/volltexte/2023/18778/)", *Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems* (short paper), OASIcs 115 17:1-17:6, 2023
@@ -100,8 +101,6 @@
 - R. Chen, S. Dash, O. Günlük, "[Cardinality constrained multilinear sets](https://link.springer.com/chapter/10.1007/978-3-030-53262-8_5)", *International Symposium on Combinatorial Optimization*, LNCS 12176 54-65, 2020
 
 ### Preprints
-- Y. Yang, R. Chen, "Inexact column generation for Bayesian network structure learning via difference-of-submodular optimization" [\[arXiv\]](https://arxiv.org/abs/2505.11089)
-
 - R. Chen, D. Liu, N. Jiang, R. Gupta, M. Kilinc, A. Lodi, "Learning Large Neighborhood Search for Maritime Inventory Routing Optimization" [\[arXiv\]](https://arxiv.org/abs/2502.15244)
 
 - B. van Rossum, R. Chen, A. Lodi, "Efficient branching rules for optimizing range and order-based objective functions" [\[arXiv\]](https://arxiv.org/abs/2311.03885)
