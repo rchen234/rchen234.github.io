@@ -76,6 +76,8 @@
 
 ## 🔍 Research
 ### Journal Papers
+- R. Chen, H. Zhu, "The complexity of recognizing facets for the knapsack polytope", *Mathematics of Operations Research* (forthcoming) [\[arXiv\]](https://arxiv.org/abs/2211.03311)
+
 - R. Chen, O. Günlük, A. Lodi, "[Recovering Dantzig-Wolfe bounds by cutting planes](https://pubsonline.informs.org/doi/full/10.1287/opre.2023.0048)", *Operations Research* 73(2) 1128-1142, 2025 [\[arXiv\]](https://arxiv.org/abs/2301.13149) [\[code\]](https://github.com/rchen234/DWB_cuts) [\[supplement\]](https://drive.google.com/file/d/1TkURMMHE7E4O_yCagzLy5POePP7oCHeW/view?usp=sharing)
 
 - R. Chen, J. Luedtke, "[Sparse multi-term disjunctive cuts for the epigraph of a function of binary variables](https://link.springer.com/article/10.1007/s10107-023-02019-2)", *Mathematical Programming* 206 357-388, 2024 [\[view-only\]](https://rdcu.be/dmISU) [\[arXiv\]](https://arxiv.org/abs/2111.07855) [\[code\]](https://github.com/rchen234/I-sparse)
@@ -108,8 +110,6 @@
 - R. Messana, R. Chen, A. Lodi, "Actively learning combinatorial optimization using a membership oracle" [\[arXiv\]](https://arxiv.org/abs/2405.14090)
 
 - R. Chen, O. Günlük, A. Lodi, G. Wang, "Online decision making with nonconvex local and convex global constraints" [\[arXiv\]](https://arxiv.org/abs/2211.03997)
-
-- R. Chen, H. Zhu, "The complexity of recognizing facets for the knapsack polytope" [\[arXiv\]](https://arxiv.org/abs/2211.03311)
 
 ### Other Publications
 - R. Chen, "[Valid inequalities and integer programming formulations for stochastic integer programming and some machine learning problems](https://www.proquest.com/docview/2598662096)", Ph.D. Dissertation
