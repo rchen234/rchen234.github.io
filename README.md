@@ -103,6 +103,8 @@
 - R. Chen, S. Dash, O. Günlük, "[Cardinality constrained multilinear sets](https://link.springer.com/chapter/10.1007/978-3-030-53262-8_5)", *International Symposium on Combinatorial Optimization*, LNCS 12176 54-65, 2020
 
 ### Preprints
+- G. Du, R. Chen, L. Wei, "On the Convexification of a Class of Mixed-Integer Conic Sets" [\[OO\]](https://optimization-online.org/?p=32425)
+
 - R. Chen, D. Liu, N. Jiang, R. Gupta, M. Kilinc, A. Lodi, "Learning large neighborhood search for maritime inventory routing optimization" [\[arXiv\]](https://arxiv.org/abs/2502.15244)
 
 - B. van Rossum, R. Chen, A. Lodi, "Efficient branching rules for optimizing range and order-based objective functions" [\[arXiv\]](https://arxiv.org/abs/2311.03885)
