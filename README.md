@@ -76,7 +76,7 @@
 
 ## 🔍 Research
 ### Journal Papers
-- R. Chen, H. Zhu, "The complexity of recognizing facets for the knapsack polytope", *Mathematics of Operations Research* (forthcoming), 2025+ [\[arXiv\]](https://arxiv.org/abs/2211.03311)
+- R. Chen, H. Zhu, "[The complexity of recognizing facets for the knapsack polytope](https://pubsonline.informs.org/doi/full/10.1287/moor.2024.0481)", *Mathematics of Operations Research* (Ahead of Print), 2025+ [\[arXiv\]](https://arxiv.org/abs/2211.03311)
 
 - R. Chen, O. Günlük, A. Lodi, "[Recovering Dantzig-Wolfe bounds by cutting planes](https://pubsonline.informs.org/doi/full/10.1287/opre.2023.0048)", *Operations Research* 73(2) 1128-1142, 2025 [\[arXiv\]](https://arxiv.org/abs/2301.13149) [\[code\]](https://github.com/rchen234/DWB_cuts) [\[supplement\]](https://drive.google.com/file/d/1TkURMMHE7E4O_yCagzLy5POePP7oCHeW/view?usp=sharing)
 
