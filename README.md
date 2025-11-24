@@ -76,6 +76,8 @@
 
 ## 🔍 Research
 ### Journal Papers
+- B. van Rossum, R. Chen, A. Lodi, "Efficient branching rules for optimizing range and order-based objective functions", *Mathematical Programming* (accepted) [\[arXiv\]](https://arxiv.org/abs/2311.03885)
+
 - R. Chen, H. Zhu, "[The complexity of recognizing facets for the knapsack polytope](https://pubsonline.informs.org/doi/full/10.1287/moor.2024.0481)", *Mathematics of Operations Research* (Ahead of Print), 2025+ [\[arXiv\]](https://arxiv.org/abs/2211.03311)
 
 - R. Chen, O. Günlük, A. Lodi, "[Recovering Dantzig-Wolfe bounds by cutting planes](https://pubsonline.informs.org/doi/full/10.1287/opre.2023.0048)", *Operations Research* 73(2) 1128-1142, 2025 [\[arXiv\]](https://arxiv.org/abs/2301.13149) [\[code\]](https://github.com/rchen234/DWB_cuts) [\[supplement\]](https://drive.google.com/file/d/1TkURMMHE7E4O_yCagzLy5POePP7oCHeW/view?usp=sharing)
@@ -91,7 +93,7 @@
 - R. Chen, J. Luedtke, "[On sample average approximation for two-stage stochastic programs without relatively complete recourse](https://link.springer.com/article/10.1007/s10107-021-01753-9)", *Mathematical Programming* 196 719-754, 2022 [\[view-only\]](https://rdcu.be/cE1Nd) [\[arXiv\]](https://arxiv.org/abs/1912.13078)
 
 ### Referred Conference Proceedings
-- Y. Yang, R. Chen, "Inexact column generation for Bayesian network structure learning via difference-of-submodular optimization", *Conference on Neural Information Processing Systems* (forthcoming), 2025 [\[arXiv\]](https://arxiv.org/abs/2505.11089)
+- Y. Yang, R. Chen, "Inexact column generation for Bayesian network structure learning via difference-of-submodular optimization", *Conference on Neural Information Processing Systems* (accepted), 2025 [\[arXiv\]](https://arxiv.org/abs/2505.11089)
 - B. van Rossum, R. Chen, A. Lodi, "[A new branching rule for range minimization problems](https://link.springer.com/chapter/10.1007/978-3-031-59835-7_32)", *International Conference on Integer Programming and Combinatorial Optimization*, LNCS 14679 433-445, 2024 
 
 - B. van Rossum, R. Chen, A. Lodi, "[Optimizing fairness over time with homogeneous workers](https://drops.dagstuhl.de/opus/volltexte/2023/18778/)", *Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems* (short paper), OASIcs 115 17:1-17:6, 2023
@@ -106,8 +108,6 @@
 - G. Du, R. Chen, L. Wei, "On the convexification of a class of mixed-integer conic sets" [\[arXiv\]](https://arxiv.org/abs/2511.00452) [\[OO\]](https://optimization-online.org/?p=32425)
 
 - R. Chen, D. Liu, N. Jiang, R. Gupta, M. Kilinc, A. Lodi, "Learning large neighborhood search for maritime inventory routing optimization" [\[arXiv\]](https://arxiv.org/abs/2502.15244)
-
-- B. van Rossum, R. Chen, A. Lodi, "Efficient branching rules for optimizing range and order-based objective functions" [\[arXiv\]](https://arxiv.org/abs/2311.03885)
 
 - R. Messana, R. Chen, A. Lodi, "Actively learning combinatorial optimization using a membership oracle" [\[arXiv\]](https://arxiv.org/abs/2405.14090)
 
