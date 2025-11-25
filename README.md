@@ -76,7 +76,7 @@
 
 ## 🔍 Research
 ### Journal Papers
-- B. van Rossum, R. Chen, A. Lodi, "Efficient branching rules for optimizing range and order-based objective functions", *Mathematical Programming* (accepted) [\[arXiv\]](https://arxiv.org/abs/2311.03885)
+- B. van Rossum, R. Chen, A. Lodi, "Efficient branching rules for optimizing range and order-based objective functions", *Mathematical Programming* (accepted), 2025+ [\[arXiv\]](https://arxiv.org/abs/2311.03885)
 
 - R. Chen, H. Zhu, "[The complexity of recognizing facets for the knapsack polytope](https://pubsonline.informs.org/doi/full/10.1287/moor.2024.0481)", *Mathematics of Operations Research* (Ahead of Print), 2025+ [\[arXiv\]](https://arxiv.org/abs/2211.03311)
 
