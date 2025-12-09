@@ -93,16 +93,16 @@
 - R. Chen, J. Luedtke, "[On sample average approximation for two-stage stochastic programs without relatively complete recourse](https://link.springer.com/article/10.1007/s10107-021-01753-9)", *Mathematical Programming* 196 719-754, 2022 [\[view-only\]](https://rdcu.be/cE1Nd) [\[arXiv\]](https://arxiv.org/abs/1912.13078)
 
 ### Referred Conference Proceedings
-- Y. Yang, R. Chen, "Inexact column generation for Bayesian network structure learning via difference-of-submodular optimization", *Conference on Neural Information Processing Systems* (accepted), 2025 [\[arXiv\]](https://arxiv.org/abs/2505.11089)
-- B. van Rossum, R. Chen, A. Lodi, "[A new branching rule for range minimization problems](https://link.springer.com/chapter/10.1007/978-3-031-59835-7_32)", *International Conference on Integer Programming and Combinatorial Optimization*, LNCS 14679 433-445, 2024 
+- Y. Yang, R. Chen, "Inexact column generation for Bayesian network structure learning via difference-of-submodular optimization", *Conference on Neural Information Processing Systems* (NeuRIPS, accepted), 2025 [\[arXiv\]](https://arxiv.org/abs/2505.11089)
+- B. van Rossum, R. Chen, A. Lodi, "[A new branching rule for range minimization problems](https://link.springer.com/chapter/10.1007/978-3-031-59835-7_32)", *International Conference on Integer Programming and Combinatorial Optimization* (IPCO), LNCS 14679 433-445, 2024 
 
-- B. van Rossum, R. Chen, A. Lodi, "[Optimizing fairness over time with homogeneous workers](https://drops.dagstuhl.de/opus/volltexte/2023/18778/)", *Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems* (short paper), OASIcs 115 17:1-17:6, 2023
+- B. van Rossum, R. Chen, A. Lodi, "[Optimizing fairness over time with homogeneous workers](https://drops.dagstuhl.de/opus/volltexte/2023/18778/)", *Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems* (ATMOS, short paper), OASIcs 115 17:1-17:6, 2023
 
-- R. Chen, J. Luedtke, "[Sparse multi-term disjunctive cuts for the epigraph of a function of binary variables](https://link.springer.com/chapter/10.1007/978-3-031-06901-7_8)", *International Conference on Integer Programming and Combinatorial Optimization*, LNCS 13265 98-111, 2022
+- R. Chen, J. Luedtke, "[Sparse multi-term disjunctive cuts for the epigraph of a function of binary variables](https://link.springer.com/chapter/10.1007/978-3-031-06901-7_8)", *International Conference on Integer Programming and Combinatorial Optimization* (IPCO), LNCS 13265 98-111, 2022
 
-- R. Chen, S. Dash, T. Gao, "[Integer programming for causal structure learning in the presence of latent variables](https://proceedings.mlr.press/v139/chen21c.html)", *International Conference on Machine Learning* (oral, 3%), PMLR 139 1550-1560, 2021 [\[code\]](https://github.com/rchen234/IP4AncADMG)
+- R. Chen, S. Dash, T. Gao, "[Integer programming for causal structure learning in the presence of latent variables](https://proceedings.mlr.press/v139/chen21c.html)", *International Conference on Machine Learning* (ICML, oral), PMLR 139 1550-1560, 2021 [\[code\]](https://github.com/rchen234/IP4AncADMG)
 
-- R. Chen, S. Dash, O. Günlük, "[Cardinality constrained multilinear sets](https://link.springer.com/chapter/10.1007/978-3-030-53262-8_5)", *International Symposium on Combinatorial Optimization*, LNCS 12176 54-65, 2020
+- R. Chen, S. Dash, O. Günlük, "[Cardinality constrained multilinear sets](https://link.springer.com/chapter/10.1007/978-3-030-53262-8_5)", *International Symposium on Combinatorial Optimization* (ISCO), LNCS 12176 54-65, 2020
 
 ### Preprints
 - G. Du, R. Chen, L. Wei, "On the convexification of a class of mixed-integer conic sets" [\[arXiv\]](https://arxiv.org/abs/2511.00452) [\[OO\]](https://optimization-online.org/?p=32425)
