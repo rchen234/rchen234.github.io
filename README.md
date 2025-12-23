@@ -84,7 +84,7 @@
 
 - R. Chen, J. Luedtke, "[Sparse multi-term disjunctive cuts for the epigraph of a function of binary variables](https://link.springer.com/article/10.1007/s10107-023-02019-2)", *Mathematical Programming* 206 357-388, 2024 [\[view-only\]](https://rdcu.be/dmISU) [\[arXiv\]](https://arxiv.org/abs/2111.07855) [\[code\]](https://github.com/rchen234/I-sparse)
 
-- R. Chen, S. Dash, O. Günlük, "[Convexifying multilinear sets with cardinality constraints: structural properties, nested case and extensions](https://doi.org/10.1016/j.disopt.2023.100804)", *Discrete Optimization* 50 100804, 2023 [\[arXiv\]](https://arxiv.org/abs/2007.15725)
+- R. Chen, S. Dash, O. Günlük, "[Convexifying multilinear sets with cardinality constraints: Structural properties, nested case and extensions](https://doi.org/10.1016/j.disopt.2023.100804)", *Discrete Optimization* 50 100804, 2023 [\[arXiv\]](https://arxiv.org/abs/2007.15725)
 
 - R. Chen, S. Dash, O. Günlük, "[Multilinear sets with two monomials and cardinality constraints](https://www.sciencedirect.com/science/article/pii/S0166218X22003572?dgcid=author)", *Discrete Applied Mathematics* 324 67-79, 2023 [\[arXiv\]](http://arxiv.org/abs/2105.10771)
 
