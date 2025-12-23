@@ -125,16 +125,7 @@
 ---
 
 ## 🎓 Teaching
+- **MAT3007 Optimization** at CUHK-Shenzhen, Spring 2026
 - **DDA6112 Stochastic Optimization** at CUHK-Shenzhen, Fall 2025
 - **MAT3007 Optimization** at CUHK-Shenzhen, Fall 2024
 
----
-
-## 🛠 Professional Service
-**Referee** for
-- Journals: Discrete Applied Mathematics, INFORMS Journal on Computing, INFORMS Journal on Optimization, Journal of Optimization Theory and Applications, Mathematical Programming, Mathematical Programming Computation, Operations Research, Operations Research Letters, SIAM Journal on Optimization
-- Conferences: AAAI, ICLR, ICML, IPCO, NeurIPS
-
-**Session Chair** for
-
-INFORMS 2019&2023, INFORMS International 2025, ISMP 2024, SIAM-OP 2023
