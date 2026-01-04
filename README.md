@@ -114,7 +114,7 @@
 - R. Chen, O. Günlük, A. Lodi, G. Wang, "Online decision making with nonconvex local and convex global constraints" [\[arXiv\]](https://arxiv.org/abs/2211.03997)
 
 ### Other Publications
-- R. Chen, "[Valid inequalities and integer programming formulations for stochastic integer programming and some machine learning problems](https://www.proquest.com/docview/2598662096)", Ph.D. Dissertation
+- R. Chen, "Valid inequalities and integer programming formulations for stochastic integer programming and some machine learning problems", [Ph.D. Dissertation](https://www.proquest.com/docview/2598662096)
 
 ### Research Group
 #### Current PhD Students
