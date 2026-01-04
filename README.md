@@ -122,6 +122,10 @@
 - Guxin Du (杜汩鑫, DS@CUHK-SZ since 2024)
 - Yiran Yang (杨忆然, DS@CUHK-SZ since 2023)
 
+### Research Projects
+ - "Decomposition Algorithms for Data-Driven Optimization", National Natural Science Foundation of China, Principal Investigator, 2026+
+ - "A Class of Contextual Stochastic Optimization Methods with Applications to Management Science", National Natural Science Foundation of China, Principal Investigator, 2026-2028
+
 ---
 
 ## 🎓 Teaching
