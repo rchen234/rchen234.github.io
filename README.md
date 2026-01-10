@@ -5,7 +5,7 @@
     <h3 style="margin: 0 0 1em;">Assistant Professor</h3>
     <p style="margin: 0.5em 0;">
       <strong>School of Data Science</strong><br>
-      <strong>The Chinese University of Hong Kong, Shenzhen</strong>
+      <strong>Chinese University of Hong Kong, Shenzhen</strong>
     </p>
     <p style="margin: 0.5em 0;">
       📧 rchen [at] cuhk [dot] edu [dot] cn<br>
