@@ -118,9 +118,9 @@
 
 ### Research Group
 #### Current PhD Students
-- Qingwei Zhang (张庆伟, DS@CUHK-SZ since 2025)
-- Guxin Du (杜汩鑫, DS@CUHK-SZ since 2024)
-- Yiran Yang (杨忆然, DS@CUHK-SZ since 2023)
+- Qingwei Zhang (张庆伟, DS@CUHK-Shenzhen since 2025)
+- Guxin Du (杜汩鑫, DS@CUHK-Shenzhen since 2024)
+- Yiran Yang (杨忆然, DS@CUHK-Shenzhen since 2023)
 
 ### Research Projects
  - "Decomposition Algorithms for Data-Driven Optimization", National Natural Science Foundation of China, Principal Investigator, 2026-2028
