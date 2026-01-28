@@ -76,6 +76,8 @@
 
 ## 🔍 Research
 ### Journal Papers
+- R. Chen, D. Liu, N. Jiang, R. Gupta, M. Kilinc, A. Lodi, "Learning large neighborhood search for maritime inventory routing optimization", *International Transactions in Operational Research* (accepted)  [\[arXiv\]](https://arxiv.org/abs/2502.15244)
+
 - B. van Rossum, R. Chen, A. Lodi, "[Efficient branching rules for optimizing range and order-based objective functions](https://link.springer.com/article/10.1007/s10107-025-02306-0)", *Mathematical Programming* (Online First), 2025+ [\[view-only\]](https://rdcu.be/eUREX) [\[arXiv\]](https://arxiv.org/abs/2311.03885)
 
 - R. Chen, H. Zhu, "[The complexity of recognizing facets for the knapsack polytope](https://pubsonline.informs.org/doi/full/10.1287/moor.2024.0481)", *Mathematics of Operations Research* (Ahead of Print), 2025+ [\[arXiv\]](https://arxiv.org/abs/2211.03311)
@@ -106,8 +108,6 @@
 
 ### Preprints
 - G. Du, R. Chen, L. Wei, "On the convexification of a class of mixed-integer conic sets" [\[arXiv\]](https://arxiv.org/abs/2511.00452) [\[OO\]](https://optimization-online.org/?p=32425)
-
-- R. Chen, D. Liu, N. Jiang, R. Gupta, M. Kilinc, A. Lodi, "Learning large neighborhood search for maritime inventory routing optimization" [\[arXiv\]](https://arxiv.org/abs/2502.15244)
 
 - R. Messana, R. Chen, A. Lodi, "Actively learning combinatorial optimization using a membership oracle" [\[arXiv\]](https://arxiv.org/abs/2405.14090)
 
