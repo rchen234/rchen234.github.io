@@ -111,7 +111,7 @@
 
 - R. Messana, R. Chen, A. Lodi, "Actively learning combinatorial optimization using a membership oracle" [\[arXiv\]](https://arxiv.org/abs/2405.14090)
 
-- R. Chen, O. Günlük, A. Lodi, G. Wang, "Online decision making with nonconvex local and convex global constraints" [\[arXiv\]](https://arxiv.org/abs/2211.03997)
+- R. Chen, O. Günlük, A. Lodi, G. Wang, "Online decision making with fairness over time" [\[arXiv\]](https://arxiv.org/abs/2211.03997)
 
 ### Other Publications
 - R. Chen, "Valid inequalities and integer programming formulations for stochastic integer programming and some machine learning problems", [Ph.D. Dissertation](https://www.proquest.com/docview/2598662096)
