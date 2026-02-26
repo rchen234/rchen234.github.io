@@ -76,7 +76,7 @@
 
 ## 🔍 Research
 ### Journal Papers
-- R. Chen, D. Liu, N. Jiang, R. Gupta, M. Kilinc, A. Lodi, "Learning large neighborhood search for maritime inventory routing optimization", *International Transactions in Operational Research* (accepted), 2026+ [\[arXiv\]](https://arxiv.org/abs/2502.15244)
+- R. Chen, D. Liu, N. Jiang, R. Gupta, M. Kilinc, A. Lodi, "[Learning large neighborhood search for maritime inventory routing optimization](https://onlinelibrary.wiley.com/doi/10.1111/itor.70175)", *International Transactions in Operational Research* (Published Online), 2026+ [\[arXiv\]](https://arxiv.org/abs/2502.15244)
 
 - B. van Rossum, R. Chen, A. Lodi, "[Efficient branching rules for optimizing range and order-based objective functions](https://link.springer.com/article/10.1007/s10107-025-02306-0)", *Mathematical Programming* (Online First), 2025+ [\[view-only\]](https://rdcu.be/eUREX) [\[arXiv\]](https://arxiv.org/abs/2311.03885)
 
