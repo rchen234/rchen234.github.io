@@ -107,7 +107,9 @@
 - R. Chen, S. Dash, O. Günlük, "[Cardinality constrained multilinear sets](https://link.springer.com/chapter/10.1007/978-3-030-53262-8_5)", *International Symposium on Combinatorial Optimization* (ISCO), LNCS 12176 54-65, 2020
 
 ### Preprints
-- G. Du, R. Chen, L. Wei, "On the convexification of a class of mixed-integer conic sets" [\[arXiv\]](https://arxiv.org/abs/2511.00452) [\[OO\]](https://optimization-online.org/?p=32425)
+- N. Jiang, R. Chen, "Tightening CVaR approximations via scenario-wise scaling for chance-constrained programming" [\[arXiv\]](https://arxiv.org/abs/2603.27957) [\[OO\]](https://optimization-online.org/2026/03/tightening-cvar-approximations-via-scenario-wise-scaling-for-chance-constrained-programming/)
+
+- G. Du, R. Chen, L. Wei, "On the convexification of a class of mixed-integer conic sets" [\[arXiv\]](https://arxiv.org/abs/2511.00452) [\[OO\]](https://optimization-online.org/2025/11/on-the-convexification-of-a-class-of-mixed-integer-conic-sets/)
 
 - R. Messana, R. Chen, A. Lodi, "Actively learning combinatorial optimization using a membership oracle" [\[arXiv\]](https://arxiv.org/abs/2405.14090)
 
