@@ -129,6 +129,7 @@
 - Yiran Yang (杨忆然, DS@CUHK-Shenzhen since 2023)
 
 ### Research Projects
+ - "LLM Assisted and Driven Optimization Under Uncertainty", National Natural Science Foundation of China, co-Principal Investigator, with Y. Zhao (PI, PHBS), 2027-2030
  - "Decomposition Algorithms for Data-Driven Optimization", National Natural Science Foundation of China, Principal Investigator, 2026-2028
  - "A Class of Contextual Stochastic Optimization Methods with Applications to Management Science", National Natural Science Foundation of China, Principal Investigator, 2026-2028
 
