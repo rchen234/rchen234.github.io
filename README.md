@@ -76,6 +76,8 @@
 
 ## 🔍 Research
 ### Journal Papers
+- B. van Rossum, R. Chen, A. Lodi, "Enforcing TSP-optimality in fair vehicle routing by cutting planes", *Operations Research Letters* (accepted), 2026+ [\[arXiv\]](https://arxiv.org/abs/2604.23748)
+
 - R. Chen, D. Liu, N. Jiang, R. Gupta, M. Kilinc, A. Lodi, "[Learning large neighborhood search for maritime inventory routing optimization](https://onlinelibrary.wiley.com/doi/10.1111/itor.70175)", *International Transactions in Operational Research* (Published Online), 2026+ [\[arXiv\]](https://arxiv.org/abs/2502.15244)
 
 - B. van Rossum, R. Chen, A. Lodi, "[Efficient branching rules for optimizing range and order-based objective functions](https://link.springer.com/article/10.1007/s10107-025-02306-0)", *Mathematical Programming* 216 539-572, 2026 [\[view-only\]](https://rdcu.be/eUREX) [\[arXiv\]](https://arxiv.org/abs/2311.03885)
@@ -96,6 +98,7 @@
 
 ### Referred Conference Proceedings
 - Y. Yang, R. Chen, "[Inexact column generation for Bayesian network structure learning via difference-of-submodular optimization](https://papers.nips.cc/paper_files/paper/2025/hash/359a032ba26b13308fef4e3493afcd18-Abstract-Conference.html)", Advances in *Neural Information Processing Systems* (NeurIPS) 38 37355-37381, 2025 [\[arXiv\]](https://arxiv.org/abs/2505.11089)
+
 - B. van Rossum, R. Chen, A. Lodi, "[A new branching rule for range minimization problems](https://link.springer.com/chapter/10.1007/978-3-031-59835-7_32)", *International Conference on Integer Programming and Combinatorial Optimization* (IPCO), LNCS 14679 433-445, 2024 
 
 - B. van Rossum, R. Chen, A. Lodi, "[Optimizing fairness over time with homogeneous workers](https://drops.dagstuhl.de/opus/volltexte/2023/18778/)", *Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems* (ATMOS, short paper), OASIcs 115 17:1-17:6, 2023
@@ -108,8 +111,6 @@
 
 ### Preprints
 - Z. Lin, R. Chen, Y. Wang, "Smooth learning with hard constraints via Legendre-regularized policies" [\[arXiv\]](https://arxiv.org/abs/2607.24007)
-
-- B. van Rossum, R. Chen, A. Lodi, "Enforcing TSP-optimality in fair vehicle routing by cutting planes" [\[arXiv\]](https://arxiv.org/abs/2604.23748)
 
 - N. Jiang, R. Chen, "Tightening CVaR approximations via scenario-wise scaling for chance-constrained programming" [\[arXiv\]](https://arxiv.org/abs/2603.27957) [\[OO\]](https://optimization-online.org/2026/03/tightening-cvar-approximations-via-scenario-wise-scaling-for-chance-constrained-programming/)
 
