@@ -76,7 +76,7 @@
 
 ## 🔍 Research
 ### Journal Papers
-- B. van Rossum, R. Chen, A. Lodi, "Enforcing TSP-optimality in fair vehicle routing by cutting planes", *Operations Research Letters* (accepted), 2026+ [\[arXiv\]](https://arxiv.org/abs/2604.23748)
+- B. van Rossum, R. Chen, A. Lodi, "[Enforcing TSP-optimality in fair vehicle routing by cutting planes](https://www.sciencedirect.com/science/article/pii/S0167637726001367#sec0013a)", *Operations Research Letters* (accepted), 2026+ [\[arXiv\]](https://arxiv.org/abs/2604.23748)
 
 - R. Chen, D. Liu, N. Jiang, R. Gupta, M. Kilinc, A. Lodi, "[Learning large neighborhood search for maritime inventory routing optimization](https://onlinelibrary.wiley.com/doi/10.1111/itor.70175)", *International Transactions in Operational Research* (Published Online), 2026+ [\[arXiv\]](https://arxiv.org/abs/2502.15244)
 
