@@ -76,6 +76,8 @@
 
 ## 🔍 Research
 ### Journal Papers
+- R. Messana, R. Chen, A. Lodi, "Solving 0-1 integer programs with unknown knapsack constraints using membership oracles", *Compuational Opitmization and Applications* (accepted), 2026+ [\[arXiv\]](https://arxiv.org/abs/2405.14090)
+
 - B. van Rossum, R. Chen, A. Lodi, "[Enforcing TSP-optimality in fair vehicle routing by cutting planes](https://www.sciencedirect.com/science/article/pii/S0167637726001367#sec0013a)", *Operations Research Letters* (accepted), 2026+ [\[arXiv\]](https://arxiv.org/abs/2604.23748)
 
 - R. Chen, D. Liu, N. Jiang, R. Gupta, M. Kilinc, A. Lodi, "[Learning large neighborhood search for maritime inventory routing optimization](https://onlinelibrary.wiley.com/doi/10.1111/itor.70175)", *International Transactions in Operational Research* (Published Online), 2026+ [\[arXiv\]](https://arxiv.org/abs/2502.15244)
@@ -115,8 +117,6 @@
 - N. Jiang, R. Chen, "Tightening CVaR approximations via scenario-wise scaling for chance-constrained programming" [\[arXiv\]](https://arxiv.org/abs/2603.27957) [\[OO\]](https://optimization-online.org/2026/03/tightening-cvar-approximations-via-scenario-wise-scaling-for-chance-constrained-programming/)
 
 - G. Du, R. Chen, L. Wei, "On the convexification of a class of mixed-integer conic sets" [\[arXiv\]](https://arxiv.org/abs/2511.00452) [\[OO\]](https://optimization-online.org/2025/11/on-the-convexification-of-a-class-of-mixed-integer-conic-sets/)
-
-- R. Messana, R. Chen, A. Lodi, "Solving 0-1 integer programs with unknown knapsack constraints using membership oracles" [\[arXiv\]](https://arxiv.org/abs/2405.14090)
 
 - R. Chen, O. Günlük, A. Lodi, G. Wang, "Online decision making with fairness over time" [\[arXiv\]](https://arxiv.org/abs/2211.03997)
 
