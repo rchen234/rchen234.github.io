@@ -76,7 +76,7 @@
 
 ## 🔍 Research
 ### Journal Papers
-- R. Messana, R. Chen, A. Lodi, "Solving 0-1 integer programs with unknown knapsack constraints using membership oracles", *Computational Optimization and Applications* (accepted), 2026+ [\[arXiv\]](https://arxiv.org/abs/2405.14090)
+- R. Messana, R. Chen, A. Lodi, A. Ceselli, "Solving 0-1 integer programs with unknown knapsack constraints using membership oracles", *Computational Optimization and Applications* (accepted), 2026+ [\[arXiv\]](https://arxiv.org/abs/2405.14090)
 
 - B. van Rossum, R. Chen, A. Lodi, "[Enforcing TSP-optimality in fair vehicle routing by cutting planes](https://www.sciencedirect.com/science/article/pii/S0167637726001367#sec0013a)", *Operations Research Letters* (accepted), 2026+ [\[arXiv\]](https://arxiv.org/abs/2604.23748)
 
